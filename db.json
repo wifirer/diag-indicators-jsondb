@@ -1,0 +1,24 @@
+{
+	"indicators": [
+		{
+			"name": "ТКД",
+			"state": "ok" 
+		},
+		{
+			"name": "Кабель",
+			"state": "ok" 
+		},
+		{
+			"name": "Порт",
+			"state": "off" 
+		},
+		{
+			"name": "Сессия",
+			"state": "ok" 
+		},
+		{
+			"name": "КЕ⇄MAC",
+			"state": "error" 
+		}
+	]
+}
